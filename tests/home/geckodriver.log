@@ -1,0 +1,350 @@
+1610043986233	geckodriver	INFO	Listening on 127.0.0.1:62488
+1610043989291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofiler8wk2C"
+1610044089493	geckodriver	INFO	Listening on 127.0.0.1:62548
+1610044092544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilePIpOKR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610044097486	Marionette	INFO	Listening on port 62556
+1610044097974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610044141624	Marionette	INFO	Stopped listening on port 62556
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610171280427	geckodriver	INFO	Listening on 127.0.0.1:50946
+1610171283481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileav09iM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610171286064	Marionette	INFO	Listening on port 50954
+1610171286161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610171778917	Marionette	INFO	Stopped listening on port 50954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileDANQS8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610171701522	Marionette	INFO	Listening on port 51110
+1610171701689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610171776419	Marionette	INFO	Stopped listening on port 51110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilemKezne"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610171750922	Marionette	INFO	Listening on port 51213
+1610171751041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610171777725	Marionette	INFO	Stopped listening on port 51213
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610171929786	geckodriver	INFO	Listening on 127.0.0.1:51324
+1610171932846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileVMpnnI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610171935411	Marionette	INFO	Listening on port 51332
+1610171935537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610172031650	Marionette	INFO	Stopped listening on port 51332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileH6MW8h"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610172013015	Marionette	INFO	Listening on port 51447
+1610172013196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610172034155	Marionette	INFO	Stopped listening on port 51447
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610173362485	geckodriver	INFO	Listening on 127.0.0.1:51715
+1610173365513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileCceVnB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610173368562	Marionette	INFO	Listening on port 51725
+1610173368738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610174360837	Marionette	INFO	Stopped listening on port 51725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174282987	Marionette	INFO	Listening on port 62856
+1610174283070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610174362405	Marionette	INFO	Stopped listening on port 62856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174358791	Marionette	INFO	Listening on port 62978
+1610174359262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610174583509	Marionette	INFO	Stopped listening on port 62978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofile0hcBay"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174500960	Marionette	INFO	Listening on port 63166
+1610174501071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610174584457	Marionette	INFO	Stopped listening on port 63166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileGgj8lO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174555612	Marionette	INFO	Listening on port 63283
+1610174555651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610174577147	Marionette	INFO	Stopped listening on port 63283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610174612087	geckodriver	INFO	Listening on 127.0.0.1:63384
+1610174615157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileKRO3AA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174617640	Marionette	INFO	Listening on port 63395
+1610174617846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610174680999	Marionette	INFO	Stopped listening on port 63395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610174783916	geckodriver	INFO	Listening on 127.0.0.1:63544
+1610174786957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofile2AVB4L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610174791363	Marionette	INFO	Listening on port 63552
+1610174791821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610175210274	Marionette	INFO	Stopped listening on port 63552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610181510782	geckodriver	INFO	Listening on 127.0.0.1:60209
+1610181513823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofile8byYjN"
+1610181557642	geckodriver	INFO	Listening on 127.0.0.1:60270
+1610181560727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilekuGof4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610181564449	Marionette	INFO	Listening on port 60279
+1610181564924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610181638386	Marionette	INFO	Stopped listening on port 60279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610181640659	geckodriver	INFO	Listening on 127.0.0.1:60422
+1610181643736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilefRNwwr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610181647248	Marionette	INFO	Listening on port 60432
+1610181647450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610181912412	Marionette	INFO	Stopped listening on port 60432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilecVtMaB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610181731698	Marionette	INFO	Listening on port 60595
+1610181731991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610181913323	Marionette	INFO	Stopped listening on port 60595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilemhvxAa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610181846432	Marionette	INFO	Listening on port 60764
+1610181846890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610181914067	Marionette	INFO	Stopped listening on port 60764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610189606968	geckodriver	INFO	Listening on 127.0.0.1:63725
+1610189610054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofile5issGu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610189614439	Marionette	INFO	Listening on port 63733
+1610189614961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610192547603	Marionette	INFO	Stopped listening on port 63733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilehBkExp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610192197688	Marionette	INFO	Listening on port 61907
+1610192198092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610192548824	Marionette	INFO	Stopped listening on port 61907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610194749452	geckodriver	INFO	Listening on 127.0.0.1:62707
+1610194752506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileSutygN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610194758688	Marionette	INFO	Listening on port 62715
+1610194758933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610197601205	Marionette	INFO	Stopped listening on port 62715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610383995304	geckodriver	INFO	Listening on 127.0.0.1:58445
+1610383998341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofileWEKurg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610384003051	Marionette	INFO	Listening on port 58453
+1610384003253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=20210101, line 32: unreachable code after return statement
+1610388789069	Marionette	INFO	Stopped listening on port 58453
+1611551763549	geckodriver	INFO	Listening on 127.0.0.1:62103
+1611551766591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sayanta\\AppData\\Local\\Temp\\rust_mozprofilebZRYtX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611551772737	Marionette	INFO	Listening on port 62111
+1611551772947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.50031, line 32: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.50031, line 32: unreachable code after return statement
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-ed8abfd8-4e1b-49b2-9701-7f782e96b15d%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.50031, line 32: unreachable code after return statement
+1611578403736	Marionette	INFO	Stopped listening on port 62111
